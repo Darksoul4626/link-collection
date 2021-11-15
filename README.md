@@ -25,8 +25,12 @@
   * [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
   * [Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
 
+-----------------------
 
 ## Development
+
+### Refactoring
+* [Refactoring Guru](https://refactoring.guru/refactoring/techniques)
 
 ### .NET Core 
 * [ExtCore](https://github.com/ExtCore/ExtCore)
@@ -48,7 +52,7 @@
   * https://docs.microsoft.com/de-de/aspnet/core/performance/caching/response?view=aspnetcore-5.0
   * https://docs.microsoft.com/de-de/dotnet/core/extensions/caching 
 
-### Angular 
+### Angular / WebApps
 * [Caching with HttpInterceptor](https://blog.logrocket.com/caching-with-httpinterceptor-in-angular/)
 * Clientside caching
   * https://dev.to/mauro_codes/client-side-caching-with-angular-2i6l
@@ -60,11 +64,27 @@
   * https://medium.com/showpad-engineering/why-you-should-never-use-function-calls-in-angular-template-expressions-e1a50f9c0496
 * [3 Common Rxjs Pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 * [Http with Observables](https://codecraft.tv/courses/angular/http/http-with-observables/)
+* [Dexie.js - IndexedDB](https://dexie.org/)
+* JWT Authentication with Refresh Tokens
+  * https://jasonwatmore.com/post/2020/07/25/angular-10-jwt-authentication-with-refresh-tokens#jwt-interceptor-ts
+  * https://medium.com/swlh/authentication-using-jwt-and-refresh-token-part-1-aca5522c14c8 
+* Cross-Tab Communication
+  * https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca
+  * https://timdeschryver.dev/blog/keeping-browser-tabs-in-sync-using-localstorage-ngrx-and-rxjs 
 
- 
+### Azure Artifacts
+* [Private NPM Repository](https://technology.amis.nl/languages/node-js/using-azure-artifacts-for-your-own-npm-modules/)
+
+
+### NPM 
+* [Increasing package version](https://docs.npmjs.com/updating-your-published-package-version-number)
+* [Configuring npmrc](https://docs.npmjs.com/cli/v7/configuring-npm/npmrc)
+* 
+
 ### Automation
 * [Stackstorm](https://stackstorm.com/features/)
 * [DevOps Automation using Stackstorm](https://www.bitovi.com/blog/devops-automation-using-stackstorm-getting-started)
+
 
 ### Styling
 * [Coloors](https://coolors.co/ba1725-d903dd-002f4f-09aa59)
@@ -74,21 +94,27 @@
 * [A11Y Project](https://www.a11yproject.com/)
 * [Check accessability](https://bik-fuer-alle.de/easy-checks.html)
 * [WCAG - Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* [Applaus - Accessability Check via commandline](https://github.com/ApplauseOSS/applause-a11y-fixer)
 
+-----------------------
 
 ## Security 
 * [SySS Research - Repositories](https://github.com/orgs/SySS-Research/repositories)
 * [OWASP - Repositories](https://github.com/orgs/OWASP/repositories)
 * [Speakeasy - Kernel and user mode emulation](https://github.com/mandiant/speakeasy)
+* [OWASP - Application Security Verification Standard](https://github.com/OWASP/ASVS)
  
+-----------------------
 
-## Hacking
+## Hacking / Pentesting
 * [MitM Proxy on Raspberry Pi 3](https://www.dinofizzotti.com/blog/2019-01-09-running-a-man-in-the-middle-proxy-on-a-raspberry-pi-3/)
 * [Security Onion - Sniff decrypted TLS traffic](https://www.netresec.com/?page=Blog&month=2020-01&post=Sniffing-Decrypted-TLS-Traffic-with-Security-Onion)
 * [PolarProxy](https://www.netresec.com/?page=PolarProxy)
   * [PolarProxy - decrypt TLS traffic](https://weberblog.net/decrypting-tls-traffic-with-polarproxy/)
 * [WireShark - Analyzing reported tls traffic](https://wiki.wireshark.org/TLS#Using_the_.28Pre.29-Master-Secret)
+* [OWASP - Nettacker](https://github.com/OWASP/Nettacker)
 
+-----------------------
 
 ## Diagrams
 * [Draw.io](https://app.diagrams.net)
@@ -96,21 +122,31 @@
 * [GoJS](https://gojs.net/latest/samples/)
 * [D3](https://d3js.org/)
 
+-----------------------
+
 ## News & interesting articles
 * [Software Architektur wird überschätzt](https://www.dotnetpro.de/planung/architektur/software-architektur-ueberschaetzt-1826229.html)
 * Every single element of SOLID is wrong
   * https://www.dotnetpro.de/diverses/architektur/every-single-element-of-solid-is-wrong-2646958.html
   * https://dannorth.net/2021/03/16/cupid-the-back-story/
 * [New german low-code & open source plattform](https://www.dotnetpro.de/tools/neue-deutsche-low-code-open-source-plattform-2676497.html)
+* [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/#When-to-Use-Refresh-Tokens)
+* [JWT - Best practices](https://curity.io/resources/learn/jwt-best-practices/)
+* [C4Model for visualising software architecture](https://c4model.com/)
+
+-----------------------
 
 ## Tutorials
 * Azure DevOps
   * https://www.udemy.com/course/azure-devops-fur-anfanger/
   * https://docs.microsoft.com/de-de/learn/browse/?expanded=azure%2Cwindows&roles=devops-engineer%2Cdeveloper&products=azure-devops
 
+-----------------------
+
 ## DSGVO 
 * [Datenschmutz - Auskunft](https://datenschmutz.de/auskunft)
 
+-----------------------
 
 ## Some more awesome lists
 * https://github.com/topics/awesome 
