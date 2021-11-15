@@ -79,7 +79,6 @@
 ### NPM 
 * [Increasing package version](https://docs.npmjs.com/updating-your-published-package-version-number)
 * [Configuring npmrc](https://docs.npmjs.com/cli/v7/configuring-npm/npmrc)
-* 
 
 ### Automation
 * [Stackstorm](https://stackstorm.com/features/)
@@ -88,7 +87,7 @@
 
 ### Styling
 * [Coloors](https://coolors.co/ba1725-d903dd-002f4f-09aa59)
-
+* [Cool Backgrounds](https://coolbackgrounds.io/)
 
 ### WCAG / A11Y
 * [A11Y Project](https://www.a11yproject.com/)
@@ -100,6 +99,7 @@
 
 ## Security 
 * [SySS Research - Repositories](https://github.com/orgs/SySS-Research/repositories)
+* [Fireeye - Repositories](https://github.com/fireeye)
 * [OWASP - Repositories](https://github.com/orgs/OWASP/repositories)
 * [Speakeasy - Kernel and user mode emulation](https://github.com/mandiant/speakeasy)
 * [OWASP - Application Security Verification Standard](https://github.com/OWASP/ASVS)
@@ -113,6 +113,8 @@
   * [PolarProxy - decrypt TLS traffic](https://weberblog.net/decrypting-tls-traffic-with-polarproxy/)
 * [WireShark - Analyzing reported tls traffic](https://wiki.wireshark.org/TLS#Using_the_.28Pre.29-Master-Secret)
 * [OWASP - Nettacker](https://github.com/OWASP/Nettacker)
+* [Online Open port tester](https://www.yougetsignal.com/tools/open-ports/)
+* [Shodan.io - Search engine for the internet of everything](https://shodan.io)
 
 -----------------------
 
@@ -133,6 +135,10 @@
 * [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/#When-to-Use-Refresh-Tokens)
 * [JWT - Best practices](https://curity.io/resources/learn/jwt-best-practices/)
 * [C4Model for visualising software architecture](https://c4model.com/)
+* Opensource licensing overview
+  * https://choosealicense.com/licenses/
+  * https://tldrlegal.com/ 
+  
 
 -----------------------
 
