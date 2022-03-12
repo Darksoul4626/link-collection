@@ -153,6 +153,9 @@
 ## DSGVO 
 * [Datenschmutz - Auskunft](https://datenschmutz.de/auskunft)
 
+## Rechtschreibprüfung  
+* [Rechtschreibprüfung24](https://rechtschreibpruefung24.de/)  
+
 -----------------------
 
 ## Some more awesome lists
