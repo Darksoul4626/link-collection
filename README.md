@@ -5,6 +5,7 @@
 
 # Awesome Collection [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+# Table of Content
 
 ## DevSec
 * [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
@@ -51,6 +52,7 @@
 * Caching
   * https://docs.microsoft.com/de-de/aspnet/core/performance/caching/response?view=aspnetcore-5.0
   * https://docs.microsoft.com/de-de/dotnet/core/extensions/caching 
+* [Rest API Design Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
 ### Angular / WebApps
 * [Caching with HttpInterceptor](https://blog.logrocket.com/caching-with-httpinterceptor-in-angular/)
@@ -104,7 +106,12 @@
 * [OWASP - Repositories](https://github.com/orgs/OWASP/repositories)
 * [Speakeasy - Kernel and user mode emulation](https://github.com/mandiant/speakeasy)
 * [OWASP - Application Security Verification Standard](https://github.com/OWASP/ASVS)
- 
+
+### XSS - Cross Site Scripting Prevention
+* [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP#examples_common_use_cases)
+To prevent loading of scripts from other origins
+* [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+
 -----------------------
 
 ## Hacking / Pentesting
@@ -117,6 +124,9 @@
 * [Online Open port tester](https://www.yougetsignal.com/tools/open-ports/)
 * [Shodan.io - Search engine for the internet of everything](https://shodan.io)
 
+### XSS - Cross Site Scripting Attack
+* [XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
+* [XSS String Encoder](http://evuln.com/tools/xss-encoder/)
 -----------------------
 
 ## Diagrams
