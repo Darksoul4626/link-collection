@@ -106,6 +106,7 @@
 * [OWASP - Repositories](https://github.com/orgs/OWASP/repositories)
 * [Speakeasy - Kernel and user mode emulation](https://github.com/mandiant/speakeasy)
 * [OWASP - Application Security Verification Standard](https://github.com/OWASP/ASVS)
+* [Velociraptor - digital forensic and incident response](https://docs.velociraptor.app/)
 
 ### XSS - Cross Site Scripting Prevention
 * [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP#examples_common_use_cases)
