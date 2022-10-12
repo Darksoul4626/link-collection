@@ -108,6 +108,11 @@
 * [OWASP - Application Security Verification Standard](https://github.com/OWASP/ASVS)
 * [Velociraptor - digital forensic and incident response](https://docs.velociraptor.app/)
 * [In App Browser Malicous Javascript Scanner](https://inappbrowser.com/)
+* [OWASP - Penetration Testing Methodologies](https://owasp.org/www-project-web-security-testing-guide/stable/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies)
+  * [OWASP - Web Security Testing Guide - GitHub](https://github.com/OWASP/wstg)
+  * [OWASP - Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+  * [OWASP - Mobile Security Testing Guide](https://owasp.org/www-project-mobile-app-security/)
+  
 
 ### XSS - Cross Site Scripting Prevention
 * [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP#examples_common_use_cases)
@@ -155,7 +160,8 @@ To prevent loading of scripts from other origins
   * https://choosealicense.com/licenses/
   * https://tldrlegal.com/ 
   * https://opensource.org/ 
-  
+* [PortSwigger - Daily News about IT](https://portswigger.net/daily-swig)
+* [Hackernews](https://news.ycombinator.com/)  
 
 -----------------------
 
@@ -172,6 +178,10 @@ To prevent loading of scripts from other origins
 ## Rechtschreibprüfung  
 * [Rechtschreibprüfung24](https://rechtschreibpruefung24.de/)  
 
+-----------------------
+## Documentation Tools
+* [MkDocs](https://www.mkdocs.org/getting-started/#getting-started-with-mkdocs)
+  * [MkDocs - Projects](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Users)
 -----------------------
 
 ## Some more awesome lists
