@@ -8,6 +8,7 @@
 # Table of Content
 
 ## DevSec
+
 * [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
 * [Best Practice: API-Security](https://blog.hubspot.com/website/api-security)
 * [OWASP - DotNet Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
@@ -30,10 +31,36 @@
 
 ## Development
 
+### Software Architectures
+
+* [Onion Architecture in Asp .Net Core](https://code-maze.com/onion-architecture-in-aspnetcore/)
+* [.Net Project-Structure](https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
+* [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+### Patterns
+
+* [DevIQ - Antipatterns](https://deviq.com/antipatterns/code-smells#change-preventers)
+* CQRS 
+  * [CQRS](https://www.objectivity.de/blog/cqrs-anwendungsfalle/)
+  * [Rest vs CQRS](https://hawkins6423.github.io/)
+  * [Rest with CQRS](https://codeopinion.com/is-a-rest-api-with-cqrs-possible/)
+  * [Microservices development patterns: CRUD VS. CQRS](https://anarsolutions.com/microservices-development-patterns-crud-vs-cqrs/)
+  * [Command Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+  * [CQRS](https://martinfowler.com/bliki/CQRS.html)
+  * [Use MediatR in ASP.NET Core](https://medium.com/dotnet-hub/use-mediatr-in-asp-net-or-asp-net-core-cqrs-and-mediator-in-dotnet-how-to-use-mediatr-cqrs-aspnetcore-5076e2f2880c)
+  * [Implementing CQRS with MediatR in ASP.NET Core](https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/)
+* [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Domain Services](https://aspnetboilerplate.com/Pages/Documents/Domain-Services)
+* [Services in Domain Driven Design - DDD](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
+* [Repository Pattern](https://deviq.com/design-patterns/repository-pattern)
+* [Privacy Patterns](https://privacypatterns.org/)
+
 ### Refactoring
+
 * [Refactoring Guru](https://refactoring.guru/refactoring/techniques)
 
 ### .NET Core 
+
 * [ExtCore](https://github.com/ExtCore/ExtCore)
 * [Modular Architecture in ASP.NET Core](https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/)
 * [abp.io - Open Source WebApplication Framework](https://abp.io)
@@ -54,7 +81,10 @@
   * https://docs.microsoft.com/de-de/dotnet/core/extensions/caching 
 * [Rest API Design Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
-### Angular / WebApps
+### Web-Development
+
+#### Angular
+
 * [Caching with HttpInterceptor](https://blog.logrocket.com/caching-with-httpinterceptor-in-angular/)
 * Clientside caching
   * https://dev.to/mauro_codes/client-side-caching-with-angular-2i6l
@@ -74,25 +104,45 @@
   * https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca
   * https://timdeschryver.dev/blog/keeping-browser-tabs-in-sync-using-localstorage-ngrx-and-rxjs 
 
-### Azure Artifacts
-* [Private NPM Repository](https://technology.amis.nl/languages/node-js/using-azure-artifacts-for-your-own-npm-modules/)
+#### Animations with WebGL & Javascript 
 
+* [ThreeJS](https://threejs.org/)
+* [Mozilla Hubs](https://hubs.mozilla.com/spoke)
+* [GreenSock](https://greensock.com/gsap/)
+
+### Azure
+
+* [Private NPM Repository](https://technology.amis.nl/languages/node-js/using-azure-artifacts-for-your-own-npm-modules/)
+* [Create Conditions](https://docs.microsoft.com/de-de/azure/devops/pipelines/process/conditions?view=azure-devops&tabs=yaml)
+* [Stages, Dependencies & Conditions](https://docs.microsoft.com/de-de/azure/devops/pipelines/process/stages?view=azure-devops&tabs=yaml)
+* [Runtime Parameters](https://docs.microsoft.com/de-de/azure/devops/pipelines/process/runtime-parameters?view=azure-devops&tabs=script)
+
+### GitHub
+
+#### GitHub Actions - Images
+
+* [Windows 2022 Datacenter](https://github.com/actions/runner-images/blob/main/images/win/Windows2022-Readme.md)
 
 ### NPM 
+
 * [Increasing package version](https://docs.npmjs.com/updating-your-published-package-version-number)
 * [Configuring npmrc](https://docs.npmjs.com/cli/v7/configuring-npm/npmrc)
 
 ### Automation
+
 * [Stackstorm](https://stackstorm.com/features/)
 * [DevOps Automation using Stackstorm](https://www.bitovi.com/blog/devops-automation-using-stackstorm-getting-started)
 
+### Styling / CSS / SCSS
 
-### Styling
 * [Coloors](https://coolors.co/ba1725-d903dd-002f4f-09aa59)
 * [Cool Backgrounds](https://coolbackgrounds.io/)
 * [Color Contrast Checker](https://polypane.app/color-contrast/#fg=%23107db5&bg=%23fff&level=aa&format=rgb)
+* [Smacss - Scalable and modular architecture for css](http://smacss.com/)
+* [SASS / SCSS Documentation](https://sass-lang.com/documentation/)
 
 ### WCAG / A11Y
+
 * [A11Y Project](https://www.a11yproject.com/)
 * [Check accessability](https://bik-fuer-alle.de/easy-checks.html)
 * [WCAG - Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -101,6 +151,7 @@
 -----------------------
 
 ## Security 
+
 * [SySS Research - Repositories](https://github.com/orgs/SySS-Research/repositories)
 * [Fireeye - Repositories](https://github.com/fireeye)
 * [OWASP - Repositories](https://github.com/orgs/OWASP/repositories)
@@ -112,9 +163,11 @@
   * [OWASP - Web Security Testing Guide - GitHub](https://github.com/OWASP/wstg)
   * [OWASP - Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
   * [OWASP - Mobile Security Testing Guide](https://owasp.org/www-project-mobile-app-security/)
-  
+* [Websocket Security](https://devcenter.heroku.com/articles/websocket-security)
+    * [Websocket Security - Vulnerabilities](https://brightsec.com/blog/websocket-security-top-vulnerabilities/)
 
 ### XSS - Cross Site Scripting Prevention
+
 * [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP#examples_common_use_cases)
 To prevent loading of scripts from other origins
 * [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
@@ -122,6 +175,7 @@ To prevent loading of scripts from other origins
 -----------------------
 
 ## Hacking / Pentesting
+
 * [MitM Proxy on Raspberry Pi 3](https://www.dinofizzotti.com/blog/2019-01-09-running-a-man-in-the-middle-proxy-on-a-raspberry-pi-3/)
 * [Security Onion - Sniff decrypted TLS traffic](https://www.netresec.com/?page=Blog&month=2020-01&post=Sniffing-Decrypted-TLS-Traffic-with-Security-Onion)
 * [PolarProxy](https://www.netresec.com/?page=PolarProxy)
@@ -132,14 +186,17 @@ To prevent loading of scripts from other origins
 * [Shodan.io - Search engine for the internet of everything](https://shodan.io)
 
 ### Vulnerable VMs
+
 * [Vulnhub](https://www.vulnhub.com/)
 
 ### XSS - Cross Site Scripting Attack
+
 * [XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
 * [XSS String Encoder](http://evuln.com/tools/xss-encoder/)
 -----------------------
 
 ## Diagrams
+
 * [Draw.io](https://app.diagrams.net)
   * [MxGraph](https://jgraph.github.io/mxgraph/)
 * [GoJS](https://gojs.net/latest/samples/)
@@ -148,6 +205,7 @@ To prevent loading of scripts from other origins
 -----------------------
 
 ## News & interesting articles
+
 * [Software Architektur wird überschätzt](https://www.dotnetpro.de/planung/architektur/software-architektur-ueberschaetzt-1826229.html)
 * Every single element of SOLID is wrong
   * https://www.dotnetpro.de/diverses/architektur/every-single-element-of-solid-is-wrong-2646958.html
@@ -162,32 +220,52 @@ To prevent loading of scripts from other origins
   * https://opensource.org/ 
 * [PortSwigger - Daily News about IT](https://portswigger.net/daily-swig)
 * [Hackernews](https://news.ycombinator.com/)  
+* [JSON Schema, Schema.org, JSON-LD: What’s the Difference](https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a)
+* [Automatisiertes Open Source Lizenzmanagement](https://lrz.legal/images//pdf/Automatisiertes_Open_Source_Lizenzmanagement_.pdf)
+* [Open Source - Genau geschaut](https://www.it-production.com/produktentwicklung/lizenz-pruefen-oss/)
+* [Institut für Rechtsfragen der Freien und Open Source Software](https://ifross.github.io/ifrOSS/Lizenzcenter)
+* [Clean Code Developer](https://clean-code-developer.de/)
 
 -----------------------
 
 ## Tutorials
-* Azure DevOps
+
+### Azure DevOps
+
   * https://www.udemy.com/course/azure-devops-fur-anfanger/
   * https://docs.microsoft.com/de-de/learn/browse/?expanded=azure%2Cwindows&roles=devops-engineer%2Cdeveloper&products=azure-devops
 
 -----------------------
 
-## DSGVO 
+## DSGVO
+
 * [Datenschmutz - Auskunft](https://datenschmutz.de/auskunft)
 
 ## Rechtschreibprüfung  
+
 * [Rechtschreibprüfung24](https://rechtschreibpruefung24.de/)  
 
 -----------------------
-## Documentation Tools
+
+## Tools
+
+* [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater/tree/master/Individual%20Scripts)
+
+### Documentation Tools
+
 * [MkDocs](https://www.mkdocs.org/getting-started/#getting-started-with-mkdocs)
   * [MkDocs - Projects](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Users)
+
+### SAST / DAST - Static / Dynamic Application Security Testing
+
+* [SonarQube on Docker with SQL](https://azure.microsoft.com/de-de/resources/templates/webapp-linux-sonarqube-azuresql/)
+* [SonarQube install server](https://docs.sonarqube.org/latest/setup/install-server/)
+
 -----------------------
 
 ## Some more awesome lists
+
 * https://github.com/topics/awesome 
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
-
