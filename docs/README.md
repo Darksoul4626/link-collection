@@ -1,4 +1,4 @@
-## OWASP_Testing_Guide_v4.pdf
+## OWASP_Testing_Guide_v4.pdf & OWASP_Testing_Guide_v4.2.pdf
 * From: 
   * https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf
   * https://owasp.org/www-project-web-security-testing-guide
