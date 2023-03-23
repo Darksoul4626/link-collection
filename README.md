@@ -225,6 +225,7 @@ To prevent loading of scripts from other origins
 * [Open Source - Genau geschaut](https://www.it-production.com/produktentwicklung/lizenz-pruefen-oss/)
 * [Institut für Rechtsfragen der Freien und Open Source Software](https://ifross.github.io/ifrOSS/Lizenzcenter)
 * [Clean Code Developer](https://clean-code-developer.de/)
+* [OSINT Top 10 Tools](https://www.security-insider.de/die-10-besten-osint-tools-fuer-2023-a-18056850b46bc0c0156ea15a42115dd2/)
 
 -----------------------
 
